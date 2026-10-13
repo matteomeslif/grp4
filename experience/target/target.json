@@ -1,24 +1,24 @@
 {
-  "imagePath": "image-targets/affiche-demo_luminance.jpg",
+  "imagePath": "image-targets/cible-reperes-contraste_luminance.jpg",
   "metadata": null,
-  "name": "affiche-demo",
+  "name": "cible-reperes-contraste",
   "type": "PLANAR",
   "properties": {
     "left": 0,
-    "top": 49,
-    "width": 1200,
-    "height": 1600,
-    "isRotated": false,
-    "originalWidth": 1200,
-    "originalHeight": 1697
+    "top": 142,
+    "width": 3508,
+    "height": 4677,
+    "isRotated": true,
+    "originalWidth": 3508,
+    "originalHeight": 4961
   },
   "resources": {
-    "originalImage": "affiche-demo_original.jpg",
-    "croppedImage": "affiche-demo_cropped.jpg",
-    "thumbnailImage": "affiche-demo_thumbnail.jpg",
-    "luminanceImage": "affiche-demo_luminance.jpg",
-    "posterImage": "affiche-demo_poster.jpg"
+    "originalImage": "cible-reperes-contraste_original.jpg",
+    "croppedImage": "cible-reperes-contraste_cropped.jpg",
+    "thumbnailImage": "cible-reperes-contraste_thumbnail.jpg",
+    "luminanceImage": "cible-reperes-contraste_luminance.jpg",
+    "posterImage": "cible-reperes-contraste_poster.jpg"
   },
-  "created": 1791449861801,
-  "updated": 1791449861801
+  "created": 1791900176415,
+  "updated": 1791900176415
 }
