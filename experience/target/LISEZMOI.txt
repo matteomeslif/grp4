@@ -1,4 +1,4 @@
-Cible de l'affiche « cible-reperes-contraste » — générée le 13/10/2026 16:05:32
+Cible de l'affiche « cible-alt-couleurs » — générée le 15/10/2026 11:42:06
 
 Dépose TOUS ces fichiers dans experience/target/ de ton projet (remplace les fichiers de même nom).
-Reconnaissance : faible (6174 points d'accroche, conseillé ≥ 18000).
+Reconnaissance : faible (7663 points d'accroche, conseillé ≥ 18000).
