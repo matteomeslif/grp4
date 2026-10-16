@@ -4,6 +4,26 @@
   "author": "DNMade 2 Numérique",
   "onLost": "hide",
   "theme": { "color": "#ff3b30", "textColor": "#ffffff", "font": "system-ui" },
-  "behaviors": ["cube"],
-  "bricks": []
+  "behaviors": ["lecteur"],
+  "bricks": [
+    {
+      "id": "video-fond-vert",
+      "type": "video",
+      "src": "assets/test-ra.mp4",
+      "trigger": "found",
+      "appear": "fade",
+      "duration": 500,
+      "x": 0.5,
+      "y": 0.5,
+      "z": 0.05,
+      "width": 2.5,
+      "loop": true,
+      "chroma": {
+        "keyColor": "#00ff00",
+        "similarity": 0.4,
+        "smoothness": 0.08,
+        "spill": 0.1
+      }
+    }
+  ]
 }
