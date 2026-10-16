@@ -4,8 +4,8 @@
 // EMPLACEMENT DU FICHIER AUDIO À LIRE :
 // Dépose ton fichier mp3 dans experience/assets/ puis indique son chemin ci-dessous :
 const MORCEAU = {
-  titre: 'Chap 21',
-  artiste: 'Nom de l’artiste',
+  titre: 'Chapitre 21',
+  artiste: 'Adrien',
   src: 'assets/Sound.mp3', // <-- CHANGE ICI LE CHEMIN DE TON FICHIER MP3 (ex: 'assets/musique.mp3')
 }
 // =============================================================================
