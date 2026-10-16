@@ -9,7 +9,7 @@
     {
       "id": "video-fond-vert",
       "type": "video",
-      "src": "assets/test-ra-lune.mp4",
+      "src": "assets/test-ra-lune-1280.mp4",
       "trigger": "found",
       "appear": "fade",
       "duration": 500,
